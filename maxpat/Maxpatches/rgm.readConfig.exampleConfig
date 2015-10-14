@@ -1,0 +1,6 @@
+
+// Lines starting with '//' are ignored.
+// Multiple spaces and tabs are ignored.
+
+app_name "Some application name"
+app_version 0.01
