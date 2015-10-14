@@ -1,4 +1,4 @@
 # rgm
 Modules for max msp
 
-<center><img src="http://storage.rejh.nl/_stored/res/rgm-for-maxmsp/rgm.PNG" style="border:1px solid #eee;" /></center>
+<img src="http://storage.rejh.nl/_stored/res/rgm-for-maxmsp/rgm.PNG" style="border:1px solid #eee;" />
